@@ -1,4 +1,4 @@
-"# Silent-Script" 
+                            SilentScript
 The Silent Script project presents a pioneering Python-based software solution designed to
 facilitate sign language recognition and comprehension. Through the development of
 customizable models and datasets, users gain the capability to comprehend and interpret sign
@@ -30,3 +30,8 @@ contributing to a more inclusive and accessible society.
 ![image](https://github.com/heyy-tamal/Silent-Script/assets/113224593/946cc81d-fe39-4223-8e78-c88797a780c9)
 ![image](https://github.com/heyy-tamal/Silent-Script/assets/113224593/4d5bcc9c-a81b-44de-a06d-75faf48bb633)
 
+**Sign Recognition**
+![image](https://github.com/heyy-tamal/Silent-Script/assets/113224593/55835267-188d-495e-992f-835136c0cf9b)
+![image](https://github.com/heyy-tamal/Silent-Script/assets/113224593/9aa8b947-0617-480f-8ae5-965d1405e960)
+![image](https://github.com/heyy-tamal/Silent-Script/assets/113224593/44d3c1e2-dc33-482f-b31e-72ec9d6f28f2)
+![image](https://github.com/heyy-tamal/Silent-Script/assets/113224593/a17e50ba-f259-4e59-a2af-33e7c42a1efd)
