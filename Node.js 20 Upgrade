@@ -1,0 +1,17 @@
+name: Node.js 20 Upgrade
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x' # Specify the Python version you need
+          
+      # Add other steps as needed for your workflow
