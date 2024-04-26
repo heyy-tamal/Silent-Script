@@ -1,4 +1,4 @@
-                            SilentScript
+                                  SilentScript
 The Silent Script project presents a pioneering Python-based software solution designed to
 facilitate sign language recognition and comprehension. Through the development of
 customizable models and datasets, users gain the capability to comprehend and interpret sign
